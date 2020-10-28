@@ -1,7 +1,9 @@
 # Umbraco.Backoffice.UI.StyleGuide #
 
 
-##Contents ##
-Elements
 
-Layout
+##Contents ##
+
+* Elements
+  * [Button - Standard](V8-Inventory/Elements/Button-Standard.md)
+* Layout
