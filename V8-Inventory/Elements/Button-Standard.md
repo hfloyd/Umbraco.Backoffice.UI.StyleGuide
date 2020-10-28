@@ -1,3 +1,5 @@
+*Status:* Inventory/Discussion
+
 # Button - Standard #
 
 
@@ -19,6 +21,8 @@ To add a button to a panel or dialog....
 ----------
 
 ----------
+
+[Standardization Discussion](https://github.com/hfloyd/Umbraco.Backoffice.UI.StyleGuide/issues/1)
 
 ## Current Usage in Core ##
 
