@@ -25,6 +25,7 @@ To add a button to a panel or dialog....
 [Source code search results...](https://github.com/umbraco/Umbraco-CMS/search?q=%3Cbutton)
 
 ###Javascript Directive(s)###
+
 [/src/Umbraco.Web.UI.Client/src/common/directives/components/buttons/umbbutton.directive.js](https://github.com/umbraco/Umbraco-CMS/blob/e9627f2ee962a73cd8c007a42845c9129e3339ee/src/Umbraco.Web.UI.Client/src/common/directives/components/buttons/umbbutton.directive.js)
 
 ###Component HTML###
@@ -32,6 +33,7 @@ To add a button to a panel or dialog....
 [/src/Umbraco.Web.UI.Client/src/views/components/buttons/umb-button.html](https://github.com/umbraco/Umbraco-CMS/blob/e9627f2ee962a73cd8c007a42845c9129e3339ee/src/Umbraco.Web.UI.Client/src/views/components/buttons/umb-button.html)
 
 ###LESS/CSS###
+
 [/src/Umbraco.Web.UI.Client/src/less/components/buttons/umb-button.less](https://github.com/umbraco/Umbraco-CMS/blob/6823cdaaa070921d6b6d2db05c84249000b75fee/src/Umbraco.Web.UI.Client/src/less/components/buttons/umb-button.less)
 
 ### Example Usages in Core ###
