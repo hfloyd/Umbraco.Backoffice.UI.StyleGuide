@@ -24,23 +24,23 @@ To add a button to a panel or dialog....
 
 [Source code search results...](https://github.com/umbraco/Umbraco-CMS/search?q=%3Cbutton)
 
-###Javascript Directive(s)###
+### Javascript Directive(s) ###
 
-[/src/Umbraco.Web.UI.Client/src/common/directives/components/buttons/umbbutton.directive.js](https://github.com/umbraco/Umbraco-CMS/blob/e9627f2ee962a73cd8c007a42845c9129e3339ee/src/Umbraco.Web.UI.Client/src/common/directives/components/buttons/umbbutton.directive.js)
+[/src/Umbraco.Web.UI.Client/src/common/directives/components/buttons/umbbutton.directive.js](https://github.com/umbraco/Umbraco-CMS/tree/v8/contrib/src/Umbraco.Web.UI.Client/src/common/directives/components/buttons/umbbutton.directive.js)
 
-###Component HTML###
+### Component HTML ###
 
 [/src/Umbraco.Web.UI.Client/src/views/components/buttons/umb-button.html](https://github.com/umbraco/Umbraco-CMS/blob/e9627f2ee962a73cd8c007a42845c9129e3339ee/src/Umbraco.Web.UI.Client/src/views/components/buttons/umb-button.html)
 
-###LESS/CSS###
+### LESS/CSS ###
 
-[/src/Umbraco.Web.UI.Client/src/less/components/buttons/umb-button.less](https://github.com/umbraco/Umbraco-CMS/blob/6823cdaaa070921d6b6d2db05c84249000b75fee/src/Umbraco.Web.UI.Client/src/less/components/buttons/umb-button.less)
+[/src/Umbraco.Web.UI.Client/src/less/components/buttons/umb-button.less](https://github.com/umbraco/Umbraco-CMS/tree/v8/contrib/src/Umbraco.Web.UI.Client/src/less/components/buttons/umb-button.less)
 
 ### Example Usages in Core ###
 
 *An inventory of found usages. Some may be up for changing or represent a different button type, TBD.*
 
-[/src/Umbraco.Web.UI.Client/src/views/common/infiniteeditors/querybuilder/querybuilder.html](https://github.com/umbraco/Umbraco-CMS/blob/e02c417cf8efac549efffb79704160933efc5121/src/Umbraco.Web.UI.Client/src/views/common/infiniteeditors/querybuilder/querybuilder.html)
+[/src/Umbraco.Web.UI.Client/src/views/common/infiniteeditors/querybuilder/querybuilder.html](https://github.com/umbraco/Umbraco-CMS/tree/v8/contrib/src/Umbraco.Web.UI.Client/src/views/common/infiniteeditors/querybuilder/querybuilder.html)
 
 	<umb-button type="button" button-style="outline" show-caret="true"></umb-button>
 	...
@@ -159,7 +159,7 @@ To add a button to a panel or dialog....
 	</umb-editor-footer-content-right>
 
 
-[/src/Umbraco.Web.UI.Client/src/views/content/protect.html](https://github.com/umbraco/Umbraco-CMS/blob/36af2f6ed25e6c7b2048490b6e49a21f11b6d060/src/Umbraco.Web.UI.Client/src/views/content/protect.html)
+[/src/Umbraco.Web.UI.Client/src/views/content/protect.html](https://github.com/umbraco/Umbraco-CMS/tree/v8/contrib/src/Umbraco.Web.UI.Client/src/views/content/protect.html)
 
 	<button type="button" ng-click="vm.pickMember()" class="umb-node-preview-add">
 		<localize key="general_add">Add</localize>
@@ -234,7 +234,7 @@ To add a button to a panel or dialog....
 	</div>
 
 
-[/src/Umbraco.Web.UI.Client/src/views/templates/edit.html](https://github.com/umbraco/Umbraco-CMS/blob/12087e78b759aa89e0af66dcb3d439835edc1f8e/src/Umbraco.Web.UI.Client/src/views/templates/edit.html)
+[/src/Umbraco.Web.UI.Client/src/views/templates/edit.html](https://github.com/umbraco/Umbraco-CMS/tree/v8/contrib/src/Umbraco.Web.UI.Client/src/views/templates/edit.html)
 
 	<button type="button"
 	        data-element="button-masterTemplate"
